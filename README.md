@@ -24,7 +24,8 @@ This project documents the configuration of a **Tenda WiFi 6 AX1500 Router (RX2P
 - Stability monitored over 7 days
 
 ## 📸 Screenshots
-*(Add screenshots of the admin panel, signal maps, or speed test results)*
+
+<img width="1920" height="1111" alt="TendaAdmin" src="https://github.com/user-attachments/assets/c81cc92b-a444-4d38-879a-7dedc77da8cf" />
 
 ## 📚 References
 - [Tenda Client + AP Mode Setup Video](https://www.youtube.com/watch?v=gwA5KyrG2aY)
